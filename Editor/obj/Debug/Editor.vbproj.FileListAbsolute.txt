@@ -18,3 +18,15 @@ C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\Editor\E
 C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\Editor\Editor\obj\Debug\Editor.vbproj.GenerateResource.Cache
 C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\Editor\Editor\obj\Debug\Editor.Editor.resources
 C:\Users\mark\Documents\Visual Studio 2008\Projects\Editor\Editor\obj\Debug\Editor.Editor.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\editor\Editor\obj\Debug\Editor.AboutBox1.resources
+C:\Documents and Settings\user\My Documents\Dropbox\QCColab\Kruse\editor\Editor\obj\Debug\Editor.exe
+C:\Documents and Settings\user\My Documents\Dropbox\QCColab\Kruse\editor\Editor\obj\Debug\Editor.xml
+C:\Documents and Settings\user\My Documents\Dropbox\QCColab\Kruse\editor\Editor\obj\Debug\Editor.pdb
+C:\Documents and Settings\user\My Documents\Dropbox\QCColab\Kruse\editor\Editor\bin\Debug\Editor.exe
+C:\Documents and Settings\user\My Documents\Dropbox\QCColab\Kruse\editor\Editor\bin\Debug\Editor.pdb
+C:\Documents and Settings\user\My Documents\Dropbox\QCColab\Kruse\editor\Editor\bin\Debug\Editor.xml
+C:\Documents and Settings\user\My Documents\Dropbox\QCColab\Kruse\editor\Editor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\My Documents\Dropbox\QCColab\Kruse\editor\Editor\obj\Debug\Editor.AboutBox1.resources
+C:\Documents and Settings\user\My Documents\Dropbox\QCColab\Kruse\editor\Editor\obj\Debug\Editor.Editor.resources
+C:\Documents and Settings\user\My Documents\Dropbox\QCColab\Kruse\editor\Editor\obj\Debug\Editor.Resources.resources
+C:\Documents and Settings\user\My Documents\Dropbox\QCColab\Kruse\editor\Editor\obj\Debug\Editor.vbproj.GenerateResource.Cache

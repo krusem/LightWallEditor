@@ -1,14 +1,17 @@
 ﻿Public Class LinkedList
     Private mHead As LinkedListItem
     Private mTail As LinkedListItem
+    Public mCurrent As LinkedListItem
 
     Public Sub Add(ByVal o As Object)
         Dim item As New LinkedListItem(o)
         If mHead Is Nothing Then
             mHead = item
+            mCurrent = o
         End If
         If mTail Is Nothing Then
             mTail = item
+            mCurrent = o
         Else
             mTail.NextItem = item
             item.PrevItem = mTail
